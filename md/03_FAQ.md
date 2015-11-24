@@ -1,0 +1,253 @@
+##### Frequently Asked Questions (FAQ)
+# Frequently Asked Question (FAQ)
+
+## Common
+
+### Known compatibility issues
+
+  Plugin Manager is not compatible.<br>
+  Lucike's script library overwrites a few key LU references.<br>
+  Do not install the Bonus Pack.<br>
+  Litcube does not support any install that is not LUV (Litcube's Universe Vanilla)<br>
+
+### My game crashes when I eject
+
+  Set your texture settings to high.
+
+### How do I patch?
+
+Read the [Installation](Installation.md) instructions.
+
+### What do the installers delete?
+
+The base install comes in two parts, both will wipe certain X3/addon directories clean:
+
+  * Base install wipes `X3\addon\loadscr`
+  * Base install wipes `X3\addon\scripts`
+  * Soundtrack install wipes `X3\soundtrack`
+
+Patches don't clean anything.
+
+### Is XYZ mod compatible with LU?
+
+  I don't know.  I only wrote LU, I didn't write any of the other mods, so I can't help you there. (I mean, really, how the fuck am I supposed to know? Install it, play it for a time, and report back to you?)
+
+### Can you make XYZ feature available as a standalone?
+
+  I would rather insert a catheter.  Into myself.
+
+### What wares do I need installed to enable XYZ command?
+
+  Check the encyclopedia under [Feature_Encyclopedia_Update Software and equipment commands].
+
+### Where do I find XYZ ware?  Searched everywhere.
+
+  Sure you did.  [Feature_Trade_Product_Search Trade Product Search]
+
+### How the fuck do you get the Rainmeter skin to work?
+
+  Tahlmorra put together this awesome guide on how to get the skin working:
+
+  [Tahlmorra's LU Rainmeter Guide](http://www.mediafire.com/view/ydbidd4y65rv5iz/Rainmeter_Doc.pdf)
+
+  Also, see: [Dashboards](Feature_Dashboards.md).
+
+### Where can I find a non-exe download?
+
+  There is no non-exe download for LU due to the fact that the installer modifies vanilla files during installation. Installing to another location and manually copying files over will result in a broken install. A more detailed explanation can be found [here](http://forum.egosoft.com/viewtopic.php?p=4393065#4393065).
+
+### I think I found a bug. How do I report it?
+
+  Due to the number of wild goose chases related to script incompatibilities, the LU team is no longer accepting bug reports for issues observed in games not running LU vanilla. While scripts and mods specifically designed to work with LU should be ok, I can't understand the environment they create most of the time, so I can't look into your bugs.  If you can reproduce your issue in a vanilla LU install (otherwise known as LUV), we'll be happy to take a look at it for you.
+
+  I will not answer your bug reports or questions if you don't provide the following information:
+  1. LU version
+  1. Installed mods
+
+
+  The more information you can provide, the easier it will be to isolate and fix the issue. As such, please consider including the following in your reports:
+  1. Screenshots of the bug occurring
+  1. A savegame of the bug occurring or with detailed instructions on how to reproduce the bug
+  1. A detailed description of the circumstances where you encountered the bug, including
+    * Sector
+    * Ships/Stations involved
+    * Commands running on said ships/stations
+    * Any actions you took leading up to the issue
+    * Any additional scripts/mods you have installed
+    * Anything else that may be relevant
+  Post reports to [this](http://forum.egosoft.com/viewtopic.php?t=365706&postdays=0&postorder=asc&start=0) thread.
+
+### I think I have an awesome suggestion on how to make LU even better. Anything I should consider before posting?
+
+  Before posting a suggestion [in the thread](http://forum.egosoft.com/viewtopic.php?t=365706&postdays=0&postorder=asc&start=0), please ask yourself the following:
+  1. Does my suggestion fit within the design philosophy of the mod?
+    * LU was designed around several core principles. The most important of these are [improved performance](http://forum.egosoft.com/viewtopic.php?p=4393208#4393208), [benefits carry associated costs](http://forum.egosoft.com/viewtopic.php?p=4393195#4393195), and [heterogeneity in ship capabilities](http://forum.egosoft.com/viewtopic.php?p=4396335#4396335).
+  1. Has my suggestion been made before?
+    * Check [Litcube's List](https://code.google.com/p/litcubesuniverse/wiki/FixList) to see if your suggestion has been made before and whether it has been Accepted/Rejected.
+
+----
+
+## Comparisons
+
+### How does LU compare to the vanilla game?
+
+  Compared to vanilla, LU has improved [04_Features a lot of things] but has eliminated the plots. There also is no kha'ak, aldrin sectors, or unfocused jump drive.
+
+  Enemies are tougher, but can still be defeated through skillful flying. It is reasonably well-[balanced](Feature_Balance.md) that way (so far).
+
+  Instead of a plot, there are two factions ([OCV](Feature_Revelation.md) and [Phanon](Feature_The_Phanon_Corporation.md)) that grow over time, becoming more threatening enemies as they grow. Your job, should you choose to accept it, is to overcome these enemies by building up your own empire quickly enough to be able to beat them.
+
+  It is a slower paced strategy game with very sophisticated opponents.
+
+### How does LU compare to the X Rebalanced Mod, XRM?
+
+  It's just different.  Personally, I think XRM is a fantastic mod, and Paul has been very successful implementing his vision of the game.
+
+### How does Out-Of-Sector (OOS) combat compare to vanilla?
+
+  OOS combat is the same as the latest patched vanilla.
+
+  I find it to be a reasonable facsimile of IS combat.
+
+### How does In-Sector (IS) combat compare to vanilla?
+
+  You'll find the IS battles in LU to be "bigger".  The fights last longer, especially between larger ships, and there's usually more ships involved.
+
+  You could be minding your own business in a sector, and a pirate patrol of an M7, a few M6, and a giant wing of fighters wants your cargo.
+
+  So be aware of that.
+
+### How does race rep compare to vanilla?
+
+  Station granted missions have lower rep rewards than vanilla.
+
+### How does the Stock Exchange compare to vanilla?
+
+  I also wrote a [stock exchange](Feature_Stock_Exchange.md) from scratch.  It uses the current stock exchange stations to unlock them, much like vanilla.  It's [hotkey](Feature_Hotkeys.md) operated.
+
+  One thing I found during the late game, is that I was going through billions of credits.  My system was so automated, that I didn't realize it, but as I'd jump in to fight off an OCV invasion, I'd lose hundreds of fully equipped fighters, vanguard M6s, etc.  They would auto re-populate from the [MLCC](Feature_MLCC.md) settings, but I'd still need to provide the resources for it.
+
+  My job became an empire manager.
+
+  So, yes, you can rake in huge credits from the new stock exchange, but a) it requires serious investment, and b) you'll never run out of uses for those credits.
+
+###  I am new-ish to the X-verse. Will I be able to handle LU?
+
+  Maybe.
+
+  Letting your game SETA overnight while your two UTs make money is unlikely a viable strategy now.
+
+  It's meant to be an epic campaign, so you're not going to lose in the span of a few days.
+
+### It sounds as though this game can now definitely be "lost". And, inevitably will be, unless you're competent. Yes?
+
+  Yes. Winning takes some skill and planning, over a long period of time. Strategy is much more important than it is in the vanilla game.
+
+### Do we need to absolutely expand as fast as the game allows, or can we afford to make a few mistakes and expand at a slightly slower rate and still be able to fight the enemy factions?
+
+  The latter.  It's not a huge panic race against time, but there is a slight sense of urgency.  You'll get messages time to time to let you know what's happening in the Universe.
+
+  However, running SETA run overnight to have your 1 UT gain you millions probably isn't a good idea.
+
+----
+## Traders
+
+### How about Universe Traders? Are they better than vanilla UT's?
+
+  Universe Traders (UTs) will not jump into sectors where you have an enemy on scanner. So satellites are your friends.
+
+  Another thing to note, trade can't happen for the player unless there's property present in the sector.  In LU, it works the same for your AI ships.
+
+  A lot of the script commands have been implemented to reflect this.  I've added script flags of *respect PPP* which basically means, respect the Player Property Present rule when searching for objects or trades.
+
+  If a UT finds an enemy where there is a lucrative trade deal, it will ignore it, but log it with the Complaint Department (Managed by Helen Wayte).  You can view trader complaints in the player menu ([hotkey](Feature_Hotkeys.md) accessible).  It will let you know here the threat is, and why it's ignoring that sweat deal.  Not only UTs will do this, but also Station Agents, Vend traders, Dock Agents, or any other trader you have for AI.  They all use the same system.
+
+  For example, if you have no assets in Argon Prime, then none of your traders will search there for deals or treat it as a viable trading opportunity.
+
+  You can't "log into the trading network" when there's no property in the sector. It's been that way since X2 for the player.  It was only the invention of the UT script that broke a bunch of rules.
+
+### Where is a good place to train Universe Traders?
+
+  * Blue Storm
+  * Creditania
+  * Far Point
+  * Scion Fire
+  * Overmasters
+  * Empire's Edge
+
+
+### It sounds like Universe Traders won't trade hardly anywhere at the beginning of the game. What do I have to do to get "assets"? Satellites?
+
+  Yes. Satellites.
+
+### Is there an easy way to develop a satellite network?
+
+  Explorer Command Software can be installed on a ship.  It allows for the command "Deploy Satellites".
+
+  There's a bunch of options for it.  A single, a box, pick up at home, etc. etc.
+
+  However, it can be costly, those satellites.  So you'll have to have some capital handy, or an income.
+
+### Speaking of Explorers, what is the option "Remember last position?" in the Explorer menu?
+
+  If "Remember last position" is ON, the explorer will go back to the last place he dropped a sat to search for the closest unplaced sat from wherever he is when he just finished what he's doing (placed a sat, bought sats).  If remember last position is OFF, he will search for closest unplaced sat from wherever he is when he just finished what he's doing (placed a sat, bought sats)
+
+  Whether to turn it ON or OFF depends on circumstances. If I'm trying to concentrate on an area, for example, I need Spectre missiles, and I need that Terran space laid, I'll fly a few to Mars and then I'd turn it on.  Because if they have to fly to Teladi space (once they run out of sats) to pick up sats, I want them coming back to Mars to keep laying sats.
+
+----
+## Early-Game
+
+### I have several UT's, but I am chronically broke. I never have any cash on hand. What to do?
+
+  Be smarter.
+
+### What "hidden costs" should I watch for?
+
+  Explorers laying a satellite network burn up a lot of cash quickly. Very quickly.
+
+### Is there any way that I can improve UT effectiveness?
+
+  Equip your UTs with [Jump Drive Quantifiers](Feature_Jumpgate_Quantifier.md). Set their Autojump minimum range to 0.
+
+  They will make about half of their trades in half the time. So like a 25% increase in credits-per-hour.
+
+### What is the best way to find abandoned ships in LU? I mean, do they randomly spawn?
+
+  They don't randomly spawn.  If you place satellites in a sector, you'll have a better chance to spot them.  There's also a [hotkey](Feature_Hotkeys.md) that can auto target abandoned ships but only if it's within scanner range of any of your property.
+
+----
+## OCV (Revelations) Q&A
+
+*See Also: [Revelation](Feature_Revelation.md)*
+
+### Does killing an OCV enemy hurt them realistically (financially) like in Phanon corp? If I take back a sector, do they lose resources?
+
+  Yes.  They produce resources in the OCV's home sector of which there is one.  The resources are produced at a steady tick.
+
+  Each sector that the OCV takes over builds a single station near the centre of that sector.  That station needs resources to build ships, and thusly invade other neighbouring sectors.  To get those resources, 4 M4 fighters (per OCV occupied sector) are used to ferry resources from the nearest OCV station that has some available.  In early OCV life, this will usually be the OCV home world.  These M4 freighters belong to, and only work for, their OCV home base sector station.
+
+  These resources are spent to produce ships.  At a certain ship/resource ceiling is hit in the sector, the OCV try to invade/spread.
+
+### Are the OCV enemies different than other enemies?
+
+  Yeah. You'll notice that the OCV ships can't be found anywhere else in the universe. They're special.  They are significantly tougher than other ships of their class.
+
+### Can the OCV be stopped?
+
+Yes. Taking all OCV sectors (this does NOT include vanilla Xenon sectors) will stop the OCV.
+
+### What happens if I take the OCV homeworld?
+
+  There's only one station that produces the resources required for the OCV to produce ships, and thus spread.  That's the homeworld of the OCV.
+
+  If the homeworld is destroyed, then a new one will emerge from any of the sectors to OCV has.
+
+### Can you "cut off" the OCV supply line by flanking it and taking back sectors away from the front lines, so that supply never reaches new sectors?
+
+  You'd have incursions from both sides, unless you cut off the supply of resources from the homeworld. That would effectively halt their production beyond that point.
+
+  Each sector uses 4 M4 ships to ferry resources from the OCV homeworld sector to the ships home sector station. So all these M4s are flying to the homeworld constantly to pick up resources and bring them back to their sector so they can expand.
+
+### Did you ever fix the thing where the OCV can't spread past Unknown or Xenon sectors?
+
+  Yes.
