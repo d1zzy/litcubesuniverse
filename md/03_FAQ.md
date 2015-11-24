@@ -38,11 +38,11 @@ Patches don't clean anything.
 
 ### What wares do I need installed to enable XYZ command?
 
-  Check the encyclopedia under [Feature_Encyclopedia_Update Software and equipment commands].
+  Check the encyclopedia under [Software and equipment commands](Feature_Encyclopedia_Update).
 
 ### Where do I find XYZ ware?  Searched everywhere.
 
-  Sure you did.  [Feature_Trade_Product_Search Trade Product Search]
+  Sure you did.  [Trade Product Search](Feature_Trade_Product_Search)
 
 ### How the fuck do you get the Rainmeter skin to work?
 
@@ -91,7 +91,7 @@ Patches don't clean anything.
 
 ### How does LU compare to the vanilla game?
 
-  Compared to vanilla, LU has improved [04_Features a lot of things] but has eliminated the plots. There also is no kha'ak, aldrin sectors, or unfocused jump drive.
+  Compared to vanilla, LU has improved [a lot of things](04_Features) but has eliminated the plots. There also is no kha'ak, aldrin sectors, or unfocused jump drive.
 
   Enemies are tougher, but can still be defeated through skillful flying. It is reasonably well-[balanced](Feature_Balance.md) that way (so far).
 
