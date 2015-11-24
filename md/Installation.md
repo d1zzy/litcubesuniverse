@@ -15,14 +15,14 @@ You will be performing A, B, or C, etc..  Choose one.
   * I am starting from scratch on a new game
 
 
-  1. Have a clean install ready.  See: [Clean Install](CleanInstall).
-  1. Download the base mod from [the downloads page](02_Download_Instructions).
+  1. Have a clean install ready.  See: [Clean Install](CleanInstall.md).
+  1. Download the base mod from [the downloads page](02_Download_Instructions.md).
   1. Install the base mod to your clean install main folder (i.e. `C:\X3`).
-  1. Download the latest patch from [the downloads page](02_Download_Instructions).
+  1. Download the latest patch from [the downloads page](02_Download_Instructions.md).
   1. Install the latest patch to your clean install main folder (i.e. `C:\X3`).
-  1. Download the soundtrack from [the downloads page](02_Download_Instructions).
+  1. Download the soundtrack from [the downloads page](02_Download_Instructions.md).
   1. Install the soundtrack to your clean install main folder (i.e. `C:\X3`).
-  1. Download the latest GUI package from [the downloads page](02_Download_Instructions).
+  1. Download the latest GUI package from [the downloads page](02_Download_Instructions.md).
   1. Install the latest GUI package to your clean install main folder (i.e. `C:\X3`).
   1. Start X3, choose **New Game -> Your Desired Start** (Do NOT choose *Damyath Import* when beginning a new game!)
 
@@ -31,11 +31,11 @@ You will be performing A, B, or C, etc..  Choose one.
 ## B
 
   * There is a new patch, and it is the same code base than what I'm running: *YES*
-  * The base install that I installed is the same version that is on the [the downloads page](02_Download_Instructions): *YES*
+  * The base install that I installed is the same version that is on the [the downloads page](02_Download_Instructions.md): *YES*
   * I want to continue my empire
 
 
-  1. Download the latest patch from [the downloads page](02_Download_Instructions).
+  1. Download the latest patch from [the downloads page](02_Download_Instructions.md).
   1. Install the latest patch to your existing LU installation main folder (i.e. `C:\X3`).
   1. Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
   1. Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
@@ -46,14 +46,14 @@ You will be performing A, B, or C, etc..  Choose one.
 ## C
 
   * There is a new patch, and it is the same code base than what I'm running: *NO*
-  * The base install that I installed is the same version that is on the [the downloads page](02_Download_Instructions): *YES*
+  * The base install that I installed is the same version that is on the [the downloads page](02_Download_Instructions.md): *YES*
   * I want to continue my empire
 
 
-  1. Download the latest E/I Package from [the downloads page](02_Download_Instructions).
+  1. Download the latest E/I Package from [the downloads page](02_Download_Instructions.md).
   1. Install the latest E/I package to your existing LU installation main folder (i.e. `C:\X3`).
-  1. Load your current game and perform an export.  If you do not know how, see: [Export/Import](Feature_Export_Import).
-  1. Download the latest patch from [the downloads page](02_Download_Instructions).
+  1. Load your current game and perform an export.  If you do not know how, see: [Export/Import](Feature_Export_Import.md).
+  1. Download the latest patch from [the downloads page](02_Download_Instructions.md).
   1. Install the latest patch to your existing LU installation main folder (i.e. `C:\X3`).
   1. Check to see if the soundtrack has been updated since you have installed it.  If so, download and install it.
   1. Check to see if the GUI package has been updated since you have installed it.  If so, download and install it.
@@ -63,20 +63,20 @@ You will be performing A, B, or C, etc..  Choose one.
 
 ## D
 
-  * The base install that I installed is the same version that is on the [the downloads page](02_Download_Instructions): *NO*
+  * The base install that I installed is the same version that is on the [the downloads page](02_Download_Instructions.md): *NO*
   * I want to continue my empire
 
 
-  1. Have a clean install ready.  See: [Clean Install](CleanInstall).
-  1. Download the base mod from [the downloads page](02_Download_Instructions).
+  1. Have a clean install ready.  See: [Clean Install](CleanInstall.md).
+  1. Download the base mod from [the downloads page](02_Download_Instructions.md).
   1. Install the base mod to your *new clean install* main folder (i.e. `C:\X3`).
-  1. Download the soundtrack, if you if you do not already have the installer for the latest version, from [the downloads page](02_Download_Instructions).
+  1. Download the soundtrack, if you if you do not already have the installer for the latest version, from [the downloads page](02_Download_Instructions.md).
   1. Install the soundtrack to your *new clean install* main folder (i.e. `C:\X3`).
-  1. Download the GUI installer, if you if you do not already have the installer for the latest version, from [the downloads page](02_Download_Instructions).
+  1. Download the GUI installer, if you if you do not already have the installer for the latest version, from [the downloads page](02_Download_Instructions.md).
   1. Install the GUI installer to your *new clean install* main folder (i.e. `C:\X3`).
-  1. Download the latest E/I Package from [the downloads page](02_Download_Instructions).
+  1. Download the latest E/I Package from [the downloads page](02_Download_Instructions.md).
   1. Install the latest E/I package to your *current game LU installation* main folder (i.e. `C:\X3`).
-  1. Load your current game from your *current game LU installation* and perform an export.  If you do not know how, see: [Export/Import](Feature_Export_Import).
+  1. Load your current game from your *current game LU installation* and perform an export.  If you do not know how, see: [Export/Import](Feature_Export_Import.md).
   1. A file will be generated in your *current game LU installation* `addon\t` directory called 8382-L044.xml.  Move this file to the *new clean install* `addon\t`.
   1. Install the latest E/I package to your *new clean install* main folder (i.e. `C:\X3`).
   1. Start X3 in the new installation, choose **New Game -> Damyath Import**.
