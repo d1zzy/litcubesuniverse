@@ -12,9 +12,9 @@ Welcome to Litcube's Universe
 
 [Download](02_Download_Instructions.md)
 
-[Asked Questions (FAQ)](03_FAQ Frequently.md)
+[Frequently Asked Questions (FAQ)](03_FAQ.md)
 
-[Features](04_Features Major.md)
+[Major Features](04_Features.md)
 
 [Contact me](Contact_Me.md)
 
