@@ -21,6 +21,7 @@
   * (2) Fixed: Omicron Channel SPPs required primary resources (map change)
   * (2) Fixed: Small errors in jobs file
   * (1) Fixed: Extraneous station info in SCH calculator sun efficiency display fixed
+
 ----
 # Version 1.5.1LU
 ### May 31, 2015
@@ -29,18 +30,21 @@
   * (3) Fixed: Freighters would not pick up goods if homebase was overstocking and homebase was a trade dock
   * (2) Fixed: Station Agents could try and buy more resources than the station could hold
   * (2) Fixed: Unfucked repair laser sound
+
 ----
 # Version 1.5.0LU
 ### January 19, 2015
   * *Code base: [Tapir](http://en.wikipedia.org/wiki/Tapir)*
 
   * (1) Fixed: Version display
+
 ----
 # Version 1.4.9LU
 ### January 18, 2015
   * *Code base: [Tapir](http://en.wikipedia.org/wiki/Tapir)*
 
   * (5) Fixed: Packing error, accidentally included an export file
+
 ----
 # Version 1.4.8LU
 ### January 17, 2015
@@ -57,12 +61,14 @@
   * (-) Changed: 'Cmdwing action many calls this' spam should now be removed
   * (-) Changed: Increased normal kill notoriety increases by double
   * (-) Upgraded: New reference object script constants for MSCI: NULL, PLAYERSHIP
+
 ----
 # Version 1.4.7LU
 ### November 14, 2014
   * *Code base: [Hirola](http://en.wikipedia.org/wiki/Hirola)*
 
   * (5) Fixed: Packing error
+
 ----
 # Version 1.4.6LU
 ### November 14, 2014
@@ -79,18 +85,21 @@
   * (-) Upgraded: Marine stats order displayed properly in dock menu (matches trade window)
   * (-) Upgraded: Marine fight training added to docks (removed TL combat training command)
   * (-) Upgraded: Property menu, personnel tab now shows percent completion of marine training
+
 ----
 # Version 1.4.5LU
 ### November 8, 2014
   * *Code base: [Dugong](http://en.wikipedia.org/wiki/Dugong)*
 
   * (5) Fixed: God damnit
+
 ----
 # Version 1.4.4LU
 ### November 8, 2014
   * *Code base: [Dugong](http://en.wikipedia.org/wiki/Dugong)*
 
   * (5) Fixed: Plutarch Tractor System was destroying roids
+
 ----
 # Version 1.4.3LU
 ### November 8, 2014
@@ -105,6 +114,7 @@
   * (-) Upgraded: Plutarch Tractor System now selects the next closest source asteroid of same type ready for engage when compacting
   * (-) Changed: Added more asteroids to the map (map change)
   * (-) Changed: Plutarch Tractor System requires more resources
+
 ----
 # Version 1.4.2LU
 ### October 31, 2014
@@ -121,6 +131,7 @@
   * (-) Changed: Betty was drunk again, so Avarice was renamed Guiding Star
   * (-) Changed: Deploy Satellite command now has proper error message for transport class issue
   * (-) Changed: Missile, Laser fabs reputations all require + 1 rank than their product
+
 ----
 # Version 1.4.1LU
 ### October 25th, 2014
@@ -139,6 +150,7 @@
   * (-) Changed:  _get asteroid array from sector_ now only returns asteroids of type 0 (the mine placement asteroids, not debris)
   * (-) Changed: Balanced Dockware Manager licensing
   * (-) Upgraded:  New script command _get debris array from sector_
+
 ----
 # Version 1.4.0LU
 ### October 24th, 2014
@@ -163,6 +175,7 @@
   * (-) Upgraded:  Trade Report added to context menu (advanced), hotkey added
   * (-) Upgraded:  Courier can now save, apply queues
   * (-) Upgraded:  Mobile mining implemented
+
 ----
 # Version 1.3.9LU
 ### October 9, 2014
@@ -170,6 +183,7 @@
 
   * (4) Fixed:       OCV freighters were thinking they were 'stocked enough' too early
   * (-) Changed:     Increased accuracy of laser tower beam
+
 ----
 # Version 1.3.8LU
 ### October 8, 2014
@@ -187,6 +201,7 @@
   * (-) Changed:     Auction Cargo Stations command now only works when docked at shipyards
   * (-) Changed:     New sector pick routine for invasion jobs
   * (-) Changed:     Limited the amount of drones a fleet will launch
+
 ----
 # Version 1.3.7LU
 ### October 4, 2014
@@ -241,6 +256,7 @@
   * (-) Upgraded:  Trade Product Search has new "mode" option; [TPS](Feature_Trade_Product_Search)
   * (-) Upgraded:  From Zebra on, save games will show data and codebase version in menus _properly_
   * (-) Upgraded:  Trade Product Search now shows some average, universally known info on wares
+
 ----
 # Version 1.3.6LU
 ### September 18th, 2014
@@ -256,6 +272,7 @@
   * (1) Fixed:  MLCC assist menu pops up again after requesting successful assist
   * (1) Fixed:  Trade product search jump now works, renamed 'dock at' just in case your autojump isn't set
   * (1) Fixed:  Betty shuts up after you start jumping on script initiated player jumps (countdown)
+
 ----
 # Version 1.3.5LU
 ### September 17th, 2014
@@ -337,6 +354,7 @@
   * _*This patch does not require an import/export*_<br><br>
   * (-) Changed: Scan asteroids autonamed
   * (-) Changed: Phanon traders now check for enemies like UTs do
+
 ----
 # Version 1.3.3LU
 ### Holy Month of Joubarbe 19, 2014
@@ -376,18 +394,21 @@
   * (-) Upgraded: Autonaming now handles up to 1000 ships
   * (-) Upgraded: Implemented Direct Deposit command (automatic station credit transfer)
   * (-) Upgraded: You can now set your home point through the player console
+
 ----
 # Version 1.3.2.2 Hotfix
 ### Holy Month of Joubarbe 10, 2014
   * _*This patch is a hotfix, and must be applied on top of 1.3.2 - Contains changes in the 1.3.2.1 Hotfix*_
   * _*This hotfix does not require Export/Import*_
   * (5) Fixed: Lockup being cause by a corrupted M2MD script due to a compiler error and incorrect usage of a command.
+
 ----
 # Version 1.3.2.1 Hotfix
 ### Holy Month of Joubarbe 7, 2014
   * _*This patch is a hotfix, and must be applied on top of 1.3.2 - it does not contain changes from any previous patch.*_
   * _*This hotfix does not require Export/Import*_
   * (5) Fixed: Lockup being caused by in sector combat related to captial ships & M2MD scripts.
+
 ----
 # Version 1.3.2
 ### Holy Month of Joubarbe 6, 2014
@@ -396,11 +417,13 @@
   * (4) Fixed: EI was not syncing job times (spawning everything it could on the start when EI set game time)
   * (4) Fixed: OWPs no longer bail
   * (-) Changed: Bails tuned
+
 ----
 # Version 1.3.1
 ### Holy Month of Joubarbe 3, 2014
   * _*This patch requires an import/export; exports from V1.2.5 and up are compatible.  See: [Export/Import](Feature_Export_Import)*_<br><br>
   * (4) Fixed: Fighters breaking off attacks too early
+
 ----
 # Version 1.3.0
 ### Holy Month of Joubarbe 3, 2014
@@ -435,6 +458,7 @@
   * (-) Upgraded: Implemented salvager jobs to clean up
   * (-) Upgraded: All job patrol scripts rewritten; patrols will no longer smile/wave/moon/flash tits as they fly by enemies
   * (-) Upgraded: Phanon corp subsidiaries can now be fired if their performance is low
+
 ----
 # Version 1.2.4
 ### July 28, 2014
@@ -447,12 +471,14 @@
   * (-) Upgraded: Implemented [Missile Boat Missile Defence](Feature_Missile_Boat_Missile_Defence)
   * (-) Upgraded: Added Terran ice mines for sale
   * (-) Upgraded: New weapon lighting effects
+
 ----
 # Version 1.2.3
 ### July 14, 2014
   * _*This patch does not require an import/export*_
   * _*Patch contains all previous changes from 1.2.1 and up*_<br><br>
   * (3) Fixed: FLC in rainmeter (skin updated to 1.3 on download page)
+
 ----
 # Version 1.2.2
 ### July 13, 2014
@@ -462,6 +488,7 @@
   * (4) Fixed: imported Phanon Corp resets when it's not supposed to
   * (3) Fixed: MLCC ships no longer load energy in place of missiles when restocking
   * (3) Fixed: ships were loading entire amount of missiles or tech wares (jump cores) when docking
+
 ----
 # Version 1.2.1
 ### July 12, 2014
@@ -472,6 +499,7 @@
   * (2) Fixed: command "None" again; oh, X-Studio
   * (1) Fixed: command help descriptions
   * (-) Upgraded: more Curlsworth loadscreens
+
 ----
 # Version 1.2.0
 ### July 11, 2014
@@ -516,9 +544,6 @@
   * (-) Upgraded: Phanon Corporation traders now eject wares, jump away
   * (-) Upgraded: new Curlsworth load screens
 
-
-
-
 ----
 # Version 1.1.9
 ### July 7, 2014
@@ -549,6 +574,7 @@
   * (3) Fixed: Rainmeter skin FLC display, added to download page
   * (2) Fixed: pirate penatron advanced augmented
   * (1) Fixed: SCH debug spam.
+
 ----
 # Version 1.1.7
 ### June 26, 2014
@@ -631,8 +657,6 @@
   * (-) Upgraded: relation/trade rank change subtitle now shows race or rank type
   * (-) Upgraded: EI from 1.1.7 on no longer requires moving/renaming the export file.
 
-
-
 ----
 # Version 1.1.6
 ### June 6, 2014
@@ -640,11 +664,13 @@
   * (3) Fixed: accidentally overwrote Panther name with description
   * (-) Changed: TM weapon energy, recharge rate augmented
   * (-) Changed: Dumbfire missiles removed from capital ships
+
 ----
 # Version 1.1.5
 ### June 5, 2014
   * _Patch contains all previous changes from 1.1.3 and up_<br><br>
   * (4) Fixed: "FLC, Motherfucker!" debug text removed.
+
 ----
 # Version 1.1.4
 ### June 5, 2014
@@ -665,6 +691,7 @@
   * (-) Upgraded: overhauled template manager menu, more accessible display
   * (-) Upgraded: Dock Agent & Station Agent more informative task tags, no more station not found messages
   * (-) Upgraded: Missile Only turret command run on missiles boats now runs a special mosquito missile defence
+
 ----
 # Version 1.1.3
 ### June, 3, 2014
@@ -709,13 +736,12 @@
   * (-) Upgraded: Added LU descriptions for lasers AKE, BKE, GKE, PBC, RL
   * (-) Upgraded: Added LU descriptions for OCV ships O, deca.fade, PX, R, G, V, T
 
-
-
 ----
 # Version 1.1.2
 ### May, 29, 2014
   * _Patch contains all previous changes from 1.0.1 and up_
   * (4) Fixed: Trade Run: Sell could crash when selling energy cells
+
 ----
 # Version 1.1.1
 ### May, 29, 2014
@@ -723,12 +749,14 @@
   * (1) Fixed: Revelation message was displaying sector as null
   * (1) Fixed: Fighter was listed twice in ERD description
   * (-) Upgraded:  Marine Training command overhauled
+
 ----
 # Version 1.1.0
 ### May, 28, 2014
   * _*This patch requires an import/export to fix known issues.  See: [Export/Import](Feature_Export_Import)*_
   * _Patch contains all previous changes from 1.0.1 and up_
   * _Really_ sorry I had to do this, but this patch is necessary to maintain future compatibility with 3rd party export/import shit.
+
 ----
 # Version 1.0.7
 ### May, 28, 2014
@@ -740,11 +768,13 @@
   * Fixed: deploy satellite center config shouldn't re-place center sats anymore
   * Fixed: station agent may switch to _manage_ after being attacked
   * Fixed: deploy satellite menu debug spam removed
+
 ----
 # Version 1.0.6
 ### May, 27, 2014
   * _Patch contains all previous changes from 1.0.1 and up_
   * Fixed: Station Agent not resetting properly when new script version detected (resets to manage, always).
+
 ----
 # Version 1.0.5
 ### May, 27, 2014
@@ -761,21 +791,25 @@
   * Fixed: Argon Mammoth sold at Family Pride shipyard removed
   * Fixed: Vulture Prototype rear turret only mounted repair laser
   * Fixed: Dock Agents now play nice together.  Dock agents won't buy the same ware at the same time, and won't overstock (unless flagged to)
+
 ----
 # Version 1.0.4
 ### May, 15, 2014
    * _Patch contains all previous changes from 1.0.1 and up_
    * Changed version display
+
 ----
 # Version 1.0.3
 ### May, 12, 2014
    * _Patch contains all previous changes from 1.0.1 and up_
    * Added docking music.
+
 ----
 # Version 1.0.2
 ### May, 12, 2014
    * _Patch contains all previous changes from 1.0.1 and up_
    * Fixed: Tships test issue (Aamon super ship).
+
 ----
 # Version 1.0.1
 ### May, 12, 2014
