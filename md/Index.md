@@ -6,22 +6,22 @@ Welcome to Litcube's Universe
 
 # Index
 
-[What is Litcube's Universe?](01_What_is_Litcubes_Universe)
+[What is Litcube's Universe?](01_What_is_Litcubes_Universe.md)
 
-[Installation](Installation)
+[Installation](Installation.md)
 
-[Download](02_Download_Instructions)
+[Download](02_Download_Instructions.md)
 
-[Asked Questions (FAQ)](03_FAQ Frequently)
+[Asked Questions (FAQ)](03_FAQ Frequently.md)
 
-[Features](04_Features Major)
+[Features](04_Features Major.md)
 
-[Contact me](Contact_Me)
+[Contact me](Contact_Me.md)
 
-[Acknowledgements](Acknowledgements)
+[Acknowledgements](Acknowledgements.md)
 
 [Scripts and Mods Library for LU (External Link to Egosoft Thread)](http://forum.egosoft.com/viewtopic.php?t=380168)
 
-[Player Logs](Player_Logs)
+[Player Logs](Player_Logs.md)
 
-[Change Log](Change_Log)
+[Change Log](Change_Log.md)
